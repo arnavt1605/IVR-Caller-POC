@@ -11,4 +11,11 @@
   <li>User can listen to messages and give inputs through the numpad</li>
 </ol>
 
-
+<h3>Requirements</h3>
+<ol>
+  <li>Twilio <br>
+  '''bash
+  pip install twilio
+  '''</li>
+  
+</ol>
