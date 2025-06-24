@@ -30,3 +30,6 @@
 </ol>
 
 <p>Following the above steps will successfully initiate the call.</p>
+
+<h3>Caution</h3>
+<p>Run call.py only after making sure that both Flask code and ngrok server and up and running. Otherwise you will definitely get errors.</p>
